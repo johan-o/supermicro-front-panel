@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"PWR,NIC2,HDD,UID,NIC1,PFAIL";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";6;"LED";;;
+2;"ATX-FP";"PinHeader_2x05_P2.54mm_Vertical";1;"Conn_02x05_Odd_Even";;;
+3;"SM-MALE";"PinHeader_2x10_P2.54mm_Vertical";1;"Header_02x10_Odd_Even";;;
+4;"SM-FEMALE";"PinSocket_2x10_P2.54mm_Vertical";1;"Conn_02x10_Odd_Even";;;
